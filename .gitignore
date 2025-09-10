@@ -1,1 +1,3 @@
 ./themes/*.conf
+themes/colors.conf
+themes/common.conf
